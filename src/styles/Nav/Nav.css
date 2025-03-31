@@ -44,6 +44,7 @@ body {
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    
 }
 
 .nav-links a {
@@ -150,9 +151,15 @@ body {
         align-items: flex-start;
         padding: 15px;
     }
-
     .logo {
         margin-bottom: 15px;
+    }
+    .btn-light{
+        width: 120px;
+        padding-block: 0.3rem;
+        padding-right:0.4rem;
+        margin-inline: 1rem;
+        margin-block: 5px;
     }
 
     .nav-links {

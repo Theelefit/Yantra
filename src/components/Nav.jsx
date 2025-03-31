@@ -86,8 +86,13 @@ function Nav() {
                     <button className="btn-light">
                         <a href="/contact">Contact</a>
                     </button>
+                   
                 </div>
+                <button className="btn-light">
+                        <a href="/register">Join Now</a>
+                    </button>
             </div>
+            
         </nav>
     );
 }
